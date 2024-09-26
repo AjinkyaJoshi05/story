@@ -1,0 +1,4 @@
+passwords.txt
+
+# this is a comment
+# *.txt --> ignores all files with .txt extension
